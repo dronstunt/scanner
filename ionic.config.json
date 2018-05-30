@@ -1,0 +1,8 @@
+{
+  "name": "scan_victor_emmanuel_gonzalez_galvan",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
